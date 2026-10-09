@@ -1,0 +1,6 @@
+{
+  "name": "CleanArch Studio - Layered Node & Express Architecture",
+  "description": "Production-grade 3-tier layered Node.js and Express architecture blueprint with controllers, services, models, routes, utils, interactive request tracer, live API explorer, and test suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
